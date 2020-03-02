@@ -22,7 +22,7 @@
             }
         }
         else{
-            alert('Mettre le navigateur a jour');
+            alert('Mettre le navigateur à jour');
             xhr = false;
         }
     </script>
