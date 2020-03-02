@@ -8,7 +8,6 @@ function ajax(){
         }
         catch (x) {
             xhr = new ActiveXObject("Microsoft.XMLHttp");
-
         }
     }
     else {
